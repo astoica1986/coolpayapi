@@ -2,11 +2,12 @@
 
 Hi Alex,
 
-I am pretty sure I am legally prevented to share any commercial code I did and unfortunately I don't have interesting opensource contributions.
-So I went with this instead.
-The gem serves as a client to coolpayapi , an app for fictional money transfer app.
- 
+I can't share any commercial code I did and unfortunately I don't have interesting opensource contributions.
+So I went with this instead. The gem serves as a client to coolpayapi , an app for fictional money transfer.
 This was part of a coding exercise for another company I applied (successfully) in the past.
+
+Please contact me any time if you have any questions.
+
 ## Installation
 
 Add this line to your application's Gemfile:
