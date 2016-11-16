@@ -12,7 +12,6 @@ module Payment
     attribute :auth_token, String
     
     def call
-      binding.pry
       validate_input!
       adapter.append_headers("Authorization" => "Bearer #{auth_token}")
       response = adapter.connection.post(url) {|conn| conn.body = request_body}
