@@ -1,12 +1,7 @@
 # Coolpayapi
 
-Hi Alex,
-
-I can't share any commercial code I did and unfortunately I don't have interesting opensource contributions.
-So I went with this instead. The gem serves as a client to coolpayapi , an app for fictional money transfer.
-This was part of a coding exercise for another company I applied (successfully) in the past.
-
-Please contact me any time if you have any questions.
+This was created as part of a coding exercise for a former job.
+It is the client to the sandbox version of a major payments engine API.
 
 ## Installation
 
